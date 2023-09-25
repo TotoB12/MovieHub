@@ -1,4 +1,5 @@
 import adapter from '@sveltejs/adapter-node';
+// import adapter from '@sveltejs/adapter-vercel';
 import svg from '@poppanator/sveltekit-svg';
 import preprocess from 'svelte-preprocess';
 import { resolve } from 'path';
